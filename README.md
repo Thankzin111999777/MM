@@ -30,10 +30,10 @@
 
 - `pkg install python`
 
-- `rm -rf FAHAD-XD`
+- `rm -rf MM`
 
-- `git clone --depth=1 https://github.com/FADII143/FAHAD-XD`
+- `git clone --depth=1 [](https://github.com/Thankzin111999777/MM)`
 
--  `cd FAHAD-XD`
+-  `cd MM`
 
--  `python Fahad.py`
+-  `python MLM.py`

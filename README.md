@@ -32,7 +32,11 @@
 
 - `rm -rf MM`
 
-- `git clone --depth=1 [](https://github.com/Thankzin111999777/MM)`
+- `git clone --depth=1
+https://github.com/Thankzin111999777/MM
+
+
+`
 
 -  `cd MM`
 
